@@ -1,4 +1,4 @@
-# World Map Runes v0.1.1
+# World Map Runes v0.1.3
 Displays the runes required for all spell teleport destinations on the world map underneath the existing tooltip.
 
 Works with all spellbooks. Compatible with everything including the default World Map plugin.
@@ -13,9 +13,3 @@ Example screenshots:
 ![ss_1](https://github.com/user-attachments/assets/91702c6c-af76-430a-b416-d6f8f3e8e1fc)
 ![ss_2](https://github.com/user-attachments/assets/1269518f-1415-4e74-9c03-270783d41dd8)
 ![ss_3](https://github.com/user-attachments/assets/038b64b5-59e6-4f14-8a0c-b03145be85c2)
-
-Screenshots:
-
-![ss_1](https://github.com/user-attachments/assets/a1180230-9dec-4544-991f-29847cd1656d)
-![ss_2](https://github.com/user-attachments/assets/8bb41f0e-1582-419a-8622-40bcd8f779cf)
-![ss_3](https://github.com/user-attachments/assets/3ebc1eda-9e3d-4e59-973a-98c59ca2f519)
